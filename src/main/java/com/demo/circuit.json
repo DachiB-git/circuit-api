@@ -1,0 +1,16 @@
+{
+  "AND": {
+    "leftInput": {
+      "NOT": {
+        "leftInput": "0",
+        "rightInput": "0"
+      }
+    },
+    "rightInput": {
+      "OR": {
+        "leftInput": "1",
+        "rightInput": "0"
+      }
+    }
+  }
+}
